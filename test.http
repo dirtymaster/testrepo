@@ -1,0 +1,4 @@
+#######
+GET https://slick-geese-shave.loca.lt/fetch?url=https://freedomgpt.com
+Accept: application/json
+
